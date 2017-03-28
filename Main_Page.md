@@ -7,7 +7,7 @@ Welcome to the Tampa Hacker Space Wiki
 
 [Member Documents](Member_Documents.md)
 
-[Tools](Out_Tools.md)
+[Our_Tools](Tools.md)
 
 [Where to Find Things](Where_to_Find_Things.md)
 
@@ -21,4 +21,4 @@ Welcome to the Tampa Hacker Space Wiki
 
 [How to Help](How_to_Help.md)
 
-[Dining and More](Places_to_Eat_Near_Tampa_Hackerspace.md)]]
+[Dining and More](Places_to_Eat_Near_Tampa_Hackerspace.md)
