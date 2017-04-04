@@ -1,6 +1,4 @@
-There are lots of ways to help. 
-
-- Volunteer at an Upcoming Event
+- Volunteer at an [Upcoming Event](Upcoming_Event "wikilink")
 
 - Teach a class!
 
@@ -12,7 +10,6 @@ There are lots of ways to help.
 
 - Update the wiki
 
-
 We also have some specific needs right now. Some are small, some are big.
 
 - Remove yarn from 3D printer drawers, load in filament and label.
@@ -23,12 +20,10 @@ We also have some specific needs right now. Some are small, some are big.
 
 - Organize materials stock
 
-
 Members are requested to volunteer four hours per month.
 
-
-
-## Donations needed
+Donations needed
+----------------
 
 Cash is also nice but we're happy to get donations of materials. We keep a list updated on our Trello page and have a few requests specific to the Kids's Open Make.
 

@@ -1,24 +1,21 @@
-Welcome to the Tampa Hacker Space Wiki
+[How Do I Become A Member and What Do I Do Next?](How_Do_I_Become_A_Member_and_What_Do_I_Do_Next? "wikilink")
 
+[Using Slack](Using_Slack "wikilink")
 
-[How Do I Become A Member and What Do I Do Next?](How_Do_I_Become_A_Member_and_What_Do_I_Do_next.md)
+[Member Documents](Member_Documents "wikilink")
 
-[Using Slack](Using_Slack.md)
+[Our Tools](Tools "wikilink")
 
-[Member Documents](Member_Documents.md)
+[Where to Find Things](Where_to_Find_Things "wikilink")
 
-[Our_Tools](Tools.md)
+[Where to Buy Things](Where_to_Buy_Things "wikilink")
 
-[Where to Find Things](Where_to_Find_Things.md)
+[Where to Get Things Done](Where_to_Get_Things_Done "wikilink")
 
-[Where to Buy Things](Where_to_Buy_Things.md)
+[Classes](Classes "wikilink")
 
-[Where to Get Things Done](Where_to_Get_Things_Done)
+[Projects](Projects "wikilink")
 
-[Classes](Classes.md)
+[How to Help](How_to_Help "wikilink")
 
-[Projects](Projects.md)
-
-[How to Help](How_to_Help.md)
-
-[Dining and More](Places_to_Eat_Near_Tampa_Hackerspace.md)
+[Places to Eat Near Tampa Hackerspace](Dining_and_More "wikilink")
