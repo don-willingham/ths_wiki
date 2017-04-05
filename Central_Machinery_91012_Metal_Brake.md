@@ -1,4 +1,4 @@
-36" metal brake used for bending sheet metal (up to 12-gauge).
+<img src="metal-brake.jpg" title="fig:metal-brake.jpg" alt="metal-brake.jpg" width="300" /> 36" metal brake used for bending sheet metal (up to 12-gauge).
 
 There is a good [forum thread](http://www.metalmeet.com/forum/showthread.php?t=12189) on using it.
 

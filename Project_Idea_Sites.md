@@ -1,3 +1,5 @@
+This page contains links to several sources of project ideas.
+
 Maker Community Websites
 ------------------------
 

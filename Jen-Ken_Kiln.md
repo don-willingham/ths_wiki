@@ -1,3 +1,5 @@
+![](Jk-1811_kiln.jpg "Jk-1811_kiln.jpg")
+
 Jen-Ken JK-1811 Kiln
 --------------------
 

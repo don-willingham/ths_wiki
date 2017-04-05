@@ -1,3 +1,6 @@
+Are you just a social member or are you a dues paying member?
+-------------------------------------------------------------
+
 Anyone is welcome to be a social member and participate in [Facebook](https://www.facebook.com/groups/TampaHack/), [Meetup](http://www.meetup.com/Tampa-Hackerspace) and other social media discussions. You're welcome to attend classes (members get a discount) and bring your projects to work on during OpenMake nights on most Tuesdays (the first Tuesday of the month is a closed member's meeting). Ask for a tour of the space if you haven't already been shown around.
 
 Certain classes and tools are open to members only.
@@ -20,7 +23,7 @@ To become a full, paying, member:
 
 <!-- -->
 
--   If you haven't already, you should join the [Facebook](https://www.facebook.com/groups/TampaHack/) and [Meetup](http://www.meetup.com/Tampa-Hackerspace) groups so you can participate in discussions, and know what's going on at the Hackerspace, including classes and meet-ups. [Meetup](http://www.meetup.com/Tampa-Hackerspace/events/) is **THE** place where schedules are posted. Join [Slack](Using_Slack "wikilink") for communication with other members.
+-   If you haven't already, you should join the [Facebook](https://www.facebook.com/groups/TampaHack/) and [Meetup](http://www.meetup.com/Tampa-Hackerspace) groups so you can participate in discussions, and know what's going on at the Hackerspace, including classes and meet-ups. [Meetup](http://www.meetup.com/Tampa-Hackerspace/events/) is **THE** place where schedules are posted. Join [Slack](Using_Slack.md "wikilink") for communication with other members.
 
 Ok, cool, I'm a member.... Now what?
 ------------------------------------
@@ -61,7 +64,7 @@ Ok, cool, I'm a member.... Now what?
 
 <!-- -->
 
--   **[ Volunteer to help out ](How_to_Help "wikilink").**
+-   **[ Volunteer to help out ](How_to_Help.md "wikilink").**
 
 I Don't Know What to Make...
 ----------------------------
@@ -74,7 +77,7 @@ I Don't Know What to Make...
 
 <!-- -->
 
--   Check out this page one of our members wrote up that talks about using the tools at the Space for making all kinds of [ Steampunk creations](How_To_Steampunk "wikilink"). Even if you're not interested in Steampunk, it talks about many different types of projects our tools can be used for.
+-   Check out this page one of our members wrote up that talks about using the tools at the Space for making all kinds of [ Steampunk creations](How_To_Steampunk.md "wikilink"). Even if you're not interested in Steampunk, it talks about many different types of projects our tools can be used for.
 
 <!-- -->
 

@@ -1,3 +1,5 @@
+The SawStop is a professional-grade table saw with an integrated emergency stop that fires whenever the spinning blade begins to make contact with skin.
+
 The extension table for the saw has a router mount that allows the same surface to be used as a table saw or a router table.
 
 The SawStop user manual is on [Google Drive](https://drive.google.com/open?id=0B1BiUKpVQf5nWG5DSlI5WmtwbGM).

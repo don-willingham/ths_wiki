@@ -1,3 +1,5 @@
+<img src="Wanhao-4S.jpg" title="Wanhao Duplicator 4S" alt="Wanhao Duplicator 4S" width="250" />
+
 Tool Description:
 -----------------
 

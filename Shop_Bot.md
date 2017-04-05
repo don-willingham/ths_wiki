@@ -1,3 +1,5 @@
+Shop Bot
+
 Tool Description:
 -----------------
 

@@ -36,7 +36,7 @@ General and Special Safety Considerations:
 -   '''Read, understand and follow all warning labels, instructions and safety manuals. '''
 -   Take the class.
 
-[Shapeoko 2 Safety and Operating Checklist](Shapeoko_2_Safety "wikilink")
+[Shapeoko 2 Safety and Operating Checklist](Shapeoko_2_Safety.md "wikilink")
 
 Tool Use:
 ---------
@@ -52,7 +52,7 @@ Tips and Tricks:
 Related links:
 --------------
 
-[Shapeoko 2 Safety and Operating Checklist](Shapeoko_2_Safety "wikilink")
+[Shapeoko 2 Safety and Operating Checklist](Shapeoko_2_Safety.md "wikilink")
 
 [ShapeOko Wiki page on Materials and Feed Rates](http://www.shapeoko.com/wiki/index.php/Materials)
 

@@ -1,3 +1,5 @@
+[Slack](https://slack.com/) has become our main tool for communication among members and our larger community.
+
 [Tampa Hackerspace Slack](http://tampahackerspace.slack.com)
 
 If you do not have access, contact us for an invite.

@@ -1,13 +1,15 @@
+All classes are scheduled through <http://meetup.com/Tampa-Hackerspace>. Please proceed there to RSVP.
+
 Core Member Classes
 -------------------
 
 **Free to Members**
 
-[New Member Orientation](New_Member_Orientation "wikilink")
+[New Member Orientation](New_Member_Orientation.md "wikilink")
 
-[3D Printing Basics](3D_Printing_Basics "wikilink")
+[3D Printing Basics](3D_Printing_Basics.md "wikilink")
 
-[Laser Cutter Orientation](Laser_Cutter_Orientation "wikilink")
+[Laser Cutter Orientation](Laser_Cutter_Orientation.md "wikilink")
 
 [Shapeoko CNC Orientation](Shapeoko_CNC_Orientation "wikilink")
 
@@ -16,7 +18,7 @@ Core Member Classes
 
 [Tinkercad](Tinkercad "wikilink")
 
-[OpenSCAD](OpenSCAD "wikilink")
+[OpenSCAD](OpenSCAD.md "wikilink")
 
 [Blender](Blender "wikilink")
 

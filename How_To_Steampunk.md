@@ -1,3 +1,5 @@
+**The Tampa Hackerspace has many wonderful tools that can be used to make make pieces for Steampunk cosplay or if that's your lifestyle. Here are some of the tools, and ideas of what they could be used to make.**
+
 *(This page is actually a place-holder for ideas for a promotional event.)*
 
 Sewing Studio
@@ -77,7 +79,7 @@ What you will need to bring:
 
 -   Your project materials
 
-[ 3D Printers](3D_Printers "wikilink")
+[ 3D Printers](3D_Printers.md "wikilink")
 --------------------------------------
 
 3d printers extrude thin layers of plastic to create almost any object for which you can design a model. There are many pre-designed objects available on \[<http://www.thingiverse.com/search?q=steampunk&sa>= Thingiverse\].
@@ -101,7 +103,7 @@ Tampa Hackerspace has multiple colors of ABS and PLA plastic filament available 
 -   Model of 3d objects in STL or OBJ format that fits in a 225mm x 145mm x 150mm build envelope.
 -   Although you can work on design at the Hackerspace, due to the long print times, it's recommended you arrive with your model ready to print.
 
-[Laser Cutter](Laser_Cutter "wikilink")
+[Laser Cutter](Laser_Cutter.md "wikilink")
 ---------------------------------------
 
 The Tampa Hackerspace's Laser Cutter can be used to precisely (and repetitively) cut and etch a variety of materials. Please review the [ more-complete list of materials here](Laser_Cutter#Materials_.28what_to_use.2C_and_not_use.2C_it_on.29: "wikilink"), but the short list includes:
@@ -134,7 +136,7 @@ Tampa Hackerspace has some wood and acrylic available for use. There is also a L
 
 Tampa Hackerspaces' Laser Cutter uses “Corel Draw” for layout and printing. Corel Draw can import multiple file types, including: PDF, JPEG, GIF, PNG, DXF, SVG, certain CAD programs, and many more. We recommend you pre-design as much of your project as possible before arriving.
 
-[Shapeoko2 mini-CNC router](ShapeOko_2 "wikilink")
+[Shapeoko2 mini-CNC router](ShapeOko_2.md "wikilink")
 --------------------------------------------------
 
 The Shapeoko2 is a small CNC (Computer Numerically Controlled) router that uses a dremel to cut or etch patterns into any material the dremel bits can cut. This may include wood, foam, leather, cardboard, metal, lots of plastics, maybe certain metals. Other tools could be substituted for the dremel.
@@ -158,7 +160,7 @@ Project Ideas:
 -   Carve faces or other images into wood, plastic, or onto coated metal to create personalized coins
 -   Use a diamond bit to etch or cut glass
 
-[Shop Bot CNC Router](Shop_Bot "wikilink")
+[Shop Bot CNC Router](Shop_Bot.md "wikilink")
 ------------------------------------------
 
 The Shop Bot is a CNC (Computer Numerically Controlled) router that can cut pieces as large or larger than a full sheet of plywood (4x8 ft). It uses a powerful router that can tool foam, wood and metals if the right cutting bit is installed.

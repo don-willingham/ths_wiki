@@ -1,3 +1,5 @@
+<img src="Wanhao_duplicator_i3.jpg" title="Wanhao_duplicator_i3.jpg" alt="Wanhao_duplicator_i3.jpg" width="300" />
+
 The Wanhao Duplicator i3 is our newest 3D printer. It was donated by [Ultimate 3D Printing Store](http://ultimate3dprintingstore.com/).
 
 Tool Description:

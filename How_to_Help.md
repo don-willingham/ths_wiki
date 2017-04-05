@@ -1,3 +1,5 @@
+There are lots of ways to help.
+
 - Volunteer at an [Upcoming Event](Upcoming_Event "wikilink")
 
 - Teach a class!

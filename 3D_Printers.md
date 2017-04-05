@@ -1,8 +1,11 @@
-[Wanhao Duplicator 4S 3D Printer](Wanhao_Duplicator_4S "wikilink")
+Printers for Printing
+---------------------
 
-[Kossel Clear 3D Printer](Kossel_Clear "wikilink")
+[Wanhao Duplicator 4S 3D Printer](Wanhao_Duplicator_4S.md "wikilink")
 
-[DeltaMaker 3D Printer](DeltaMaker "wikilink")
+[Kossel Clear 3D Printer](Kossel_Clear.md "wikilink")
+
+[DeltaMaker 3D Printer](DeltaMaker.md "wikilink")
 
 Printers for Printing or Hacking
 --------------------------------

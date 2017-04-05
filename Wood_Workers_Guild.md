@@ -1,3 +1,5 @@
+The Tampa Hackerspace Wood Workers Guild is a group of members who gather to share knowledge and techniques, work on projects, and help keep the wood shop in good working order. They meet weekly on Thursday nights for about 30 minutes. (As of March 2017.)
+
 Half the time is spent discussing a technique, and half the time is spent on shop improvements.
 
 As with all Hackerspace meetups, this is a great place to bounce design ideas, etc. with other like-minded people.

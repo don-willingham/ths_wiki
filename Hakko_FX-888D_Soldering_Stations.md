@@ -1,4 +1,4 @@
-The [Hakko FX-888D](https://www.hakko.com/english/products/hakko_fx888d.html) is a flexible soldering station with digital temperature control.
+<img src="FX888D.jpg" title="fig:FX888D.jpg" alt="FX888D.jpg" width="300" /> The [Hakko FX-888D](https://www.hakko.com/english/products/hakko_fx888d.html) is a flexible soldering station with digital temperature control.
 
 These stations come with both a metal tip-cleaning sponge and a traditional wet sponge. The metal sponge is sufficient for most use. Please do not use the other sponge without adding water.
 

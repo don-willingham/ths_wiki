@@ -1,3 +1,5 @@
+Manuals for most tools are available on [Google Drive](https://drive.google.com/open?id=0B1BiUKpVQf5nR3FycGdnUVJhZGs).
+
 Design Software
 ---------------
 
@@ -8,24 +10,24 @@ VcarvePro - Easy Cad/Cam software , Post Processors for the Shapeoko, Shop Bot, 
 High-Tech Fabrication
 ---------------------
 
-[Universal Laser Cutter Model M360-60](Laser_Cutter "wikilink") [\[Manual](https://drive.google.com/open?id=0B1BiUKpVQf5nOGF1ZzI4QWg4X1k)\]
+[Universal Laser Cutter Model M360-60](Laser_Cutter.md "wikilink") [\[Manual](https://drive.google.com/open?id=0B1BiUKpVQf5nOGF1ZzI4QWg4X1k)\]
 
-[Shop Bot CNC Router](Shop_Bot "wikilink") (Part of the Wood Shop)
+[Shop Bot CNC Router](Shop_Bot.md "wikilink") (Part of the Wood Shop)
 
-[ShapeOko2 3D Carving / CNC Milling Machine](ShapeOko_2 "wikilink") (being converted to use LinuxCNC)
+[ShapeOko2 3D Carving / CNC Milling Machine](ShapeOko_2.md "wikilink") (being converted to use LinuxCNC)
 
-[Phlatformer vacuum former](Phlatformer "wikilink")
+[Phlatformer vacuum former](Phlatformer.md "wikilink")
 
-[3D Printers](3D_Printers "wikilink")
+[3D Printers](3D_Printers.md "wikilink")
 -------------------------------------
 
-[Wanhao Duplicator i3](Wanhao_Duplicator_i3 "wikilink") [\[Manual](https://drive.google.com/open?id=0B1BiUKpVQf5nMVdfWG01M3pxNlU)\]
+[Wanhao Duplicator i3](Wanhao_Duplicator_i3.md "wikilink") [\[Manual](https://drive.google.com/open?id=0B1BiUKpVQf5nMVdfWG01M3pxNlU)\]
 
-[Wanhao Duplicator 4S](Wanhao_Duplicator_4S "wikilink") [\[Manual](https://drive.google.com/open?id=0B1BiUKpVQf5nMVdfWG01M3pxNlU)\]
+[Wanhao Duplicator 4S](Wanhao_Duplicator_4S.md "wikilink") [\[Manual](https://drive.google.com/open?id=0B1BiUKpVQf5nMVdfWG01M3pxNlU)\]
 
-[Kossel Clear](Kossel_Clear "wikilink")
+[Kossel Clear](Kossel_Clear.md "wikilink")
 
-[DeltaMaker](DeltaMaker "wikilink")
+[DeltaMaker](DeltaMaker.md "wikilink")
 
 **'' Retired 3D Printers - available for hacking projects**''
 
@@ -36,9 +38,9 @@ High-Tech Fabrication
 Electronics
 -----------
 
-[Hakko FX-888D Soldering Stations](Hakko_FX-888D_Soldering_Stations "wikilink") [\[Manual](https://drive.google.com/open?id=0B1BiUKpVQf5nYkVhUWdlS2ItZ0E)\]
+[Hakko FX-888D Soldering Stations](Hakko_FX-888D_Soldering_Stations.md "wikilink") [\[Manual](https://drive.google.com/open?id=0B1BiUKpVQf5nYkVhUWdlS2ItZ0E)\]
 
-[Oscilloscope (Goldstar OS-7020A – 20Mhz analog)](Goldstar_OS-7020A "wikilink") [\[Manual](https://drive.google.com/open?id=0B1BiUKpVQf5nNjJrR0p2YlNXbUU)\]
+[Oscilloscope (Goldstar OS-7020A – 20Mhz analog)](Goldstar_OS-7020A.md "wikilink") [\[Manual](https://drive.google.com/open?id=0B1BiUKpVQf5nNjJrR0p2YlNXbUU)\]
 
 Logic Analyzers (HP)
 
@@ -73,7 +75,7 @@ Northern Industrial BS-712N Horizontal Band Saw [\[Manual](https://drive.google.
 
 Central Machinery 93762 Horizontal Bandsaw [\[Manual](https://drive.google.com/open?id=0B1BiUKpVQf5nbXVsenVUMVY2aVE)\]
 
-[Central Machinery 91012 Metal Brake](Central_Machinery_91012_Metal_Brake "wikilink") [\[Manual](https://drive.google.com/file/d/0B1BiUKpVQf5nb0QzZDh6aGxCTmM/view)\]
+[Central Machinery 91012 Metal Brake](Central_Machinery_91012_Metal_Brake.md "wikilink") [\[Manual](https://drive.google.com/file/d/0B1BiUKpVQf5nb0QzZDh6aGxCTmM/view)\]
 
 Wire welder (incomplete and not set up yet)
 
@@ -106,7 +108,7 @@ Appropriate safety gear is available and **required** for tool usage. Safety gla
 
 *'* CNC Tools *'*
 
-[Shop Bot CNC Router](Shop_Bot "wikilink")
+[Shop Bot CNC Router](Shop_Bot.md "wikilink")
 
 *'* Drill Presses *'*
 
@@ -118,7 +120,7 @@ Central Machinery 38119 8" Drill Press [\[Manual](https://drive.google.com/open?
 
 *'* Saws *'*
 
-[SawStop PCS31230 3HP 10" Professional Cabinet Saw w/ 52" Extension Table](SawStop "wikilink") [\[Manual](https://drive.google.com/open?id=0B1BiUKpVQf5nWG5DSlI5WmtwbGM)\] - main table saw, has router table mount
+[SawStop PCS31230 3HP 10" Professional Cabinet Saw w/ 52" Extension Table](SawStop.md "wikilink") [\[Manual](https://drive.google.com/open?id=0B1BiUKpVQf5nWG5DSlI5WmtwbGM)\] - main table saw, has router table mount
 
 Ryobi BS904G 9" Band Saw [\[Manual](https://drive.google.com/open?id=0B1BiUKpVQf5nZXRkVUlNenAwTzg)\] - benchtop
 
@@ -182,9 +184,9 @@ Assorted hand tools
 Craft / Art
 -----------
 
-[Silhouette Portrait](Silhouette_Portrait "wikilink")
+[Silhouette Portrait](Silhouette_Portrait.md "wikilink")
 
-[Jen-Ken Kiln](Jen-Ken_Kiln "wikilink")
+[Jen-Ken Kiln](Jen-Ken_Kiln.md "wikilink")
 
 Sewing
 ------

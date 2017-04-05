@@ -5,7 +5,7 @@ use LWP::Simple;
 my $root_url = "http://tampahackerspace.com/wiki";
 my @pages;
 my $page_cnt = 0;
-
+my $write_full = 0;
 sub add_page
 {
    my ($new_page) = @_;
@@ -46,16 +46,24 @@ sub get_page
    if ($page =~ s/\?//g) {
       print "Removed ? from ".$page."\n";
    }
-   my $line = 0;
-   foreach (@lines) {
-      my $curr_line = $_;
-      if ($curr_line =~ /<textarea\ .*\ name=\"wpTextbox1\">/) {
-         $text_area_start = $line + 1;
+   if ($write_full) {
+      if (open FULL, ">".$page.".full.txt") {
+         binmode(FULL, ":utf8");
+         my $line = 0;
+         foreach (@lines) {
+            my $curr_line = $_;
+            print FULL $curr_line."\n";
+            if ($curr_line =~ s/(<\/p>)?<textarea\ .*\ name=\"wpTextbox1\">//) {
+               $text_area_start = $line;
+               $lines[$line] = $curr_line;
+            }
+            if ($curr_line =~ /<\/textarea>/) {
+               $text_area_stop = $line;
+            }
+            $line++;
+         }
+         close FULL;
       }
-      if ($curr_line =~ /<\/textarea>/) {
-         $text_area_stop = $line;
-      }
-      $line++;
    }
    if (($text_area_start > -1) && ($text_area_stop > -1)) {
       if (open PARTIAL, ">".$page.".txt") {

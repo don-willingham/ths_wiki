@@ -1,3 +1,5 @@
+**Tampa Hackerspace's Member's Documents**
+
 -   [ How Do I Become A Member and What Do I Do Next?](How_Do_I_Become_A_Member_and_What_Do_I_Do_Next? "wikilink")
 
 Organizational Documents
@@ -12,12 +14,12 @@ Organizational Documents
 How To's
 --------
 
--   [ How to use Tampa Hackerspace to make Steampunk cosplay](How_To_Steampunk "wikilink")
+-   [ How to use Tampa Hackerspace to make Steampunk cosplay](How_To_Steampunk.md "wikilink")
 
 Group Projects
 --------------
 
--   [ Tampa Hackerspace's Woodworker's Guild ](Wood_Workers_Guild "wikilink")
+-   [ Tampa Hackerspace's Woodworker's Guild ](Wood_Workers_Guild.md "wikilink")
 
 Member's Individual Projects
 ----------------------------

@@ -1,3 +1,5 @@
+Projects range from Arts and Crafts to solving world hunger.
+
 This page is under construction and will eventually list active projects.
 
 Gaming
@@ -47,4 +49,4 @@ Communications
 See Also
 --------
 
--   [Project Idea Sites](Project_Idea_Sites "wikilink")
+-   [Project Idea Sites](Project_Idea_Sites.md "wikilink")
