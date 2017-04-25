@@ -49,21 +49,27 @@ sub get_page
    if ($write_full) {
       if (open FULL, ">".$page.".full.txt") {
          binmode(FULL, ":utf8");
-         my $line = 0;
-         foreach (@lines) {
-            my $curr_line = $_;
-            print FULL $curr_line."\n";
-            if ($curr_line =~ s/(<\/p>)?<textarea\ .*\ name=\"wpTextbox1\">//) {
-               $text_area_start = $line;
-               $lines[$line] = $curr_line;
-            }
-            if ($curr_line =~ /<\/textarea>/) {
-               $text_area_stop = $line;
-            }
-            $line++;
-         }
-         close FULL;
+      } else {
+         die("Failed to open ".$page.".full.txt for writing");
       }
+   }
+   my $line = 0;
+   foreach (@lines) {
+      my $curr_line = $_;
+      if ($write_full) {
+         print FULL $curr_line."\n";
+      }
+      if ($curr_line =~ s/(<\/p>)?<textarea\ .*\ name=\"wpTextbox1\">//) {
+         $text_area_start = $line;
+         $lines[$line] = $curr_line;
+      }
+      if ($curr_line =~ /<\/textarea>/) {
+         $text_area_stop = $line;
+      }
+      $line++;
+   }
+   if ($write_full) {
+      close FULL;
    }
    if (($text_area_start > -1) && ($text_area_stop > -1)) {
       if (open PARTIAL, ">".$page.".txt") {
