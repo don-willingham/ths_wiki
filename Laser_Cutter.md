@@ -309,6 +309,10 @@ Related Links
 
 <!-- -->
 
+-   [Universal Laser's writeup on EVA foam](https://www.ulsinc.com/materials/eva-foam)
+
+<!-- -->
+
 -   [Box Maker](http://boxmaker.connectionlab.org/)
 
 <!-- -->
