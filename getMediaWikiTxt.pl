@@ -46,6 +46,12 @@ sub get_page
    if ($page =~ s/\?//g) {
       print "Removed ? from ".$page."\n";
    }
+   if ($page =~ s/\:/\//g) {
+      print "Converted : to / for ".$page."\n";
+      my $subdir = $page;
+      $subdir =~ s/\/[^\/]+$//;
+      mkdir $subdir;
+   }
    if ($write_full) {
       if (open FULL, ">".$page.".full.txt") {
          binmode(FULL, ":utf8");
