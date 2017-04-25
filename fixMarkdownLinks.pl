@@ -51,8 +51,22 @@ sub fixMarkdown
       }
    }
 }
-my @files = glob("*.md");
-foreach (@files) {
-   my $curr_file = $_;
-   fixMarkdown($curr_file);
+
+sub recurse
+{
+   my @files = glob("*");
+   foreach (@files) {
+      my $curr_file = $_;
+      if (-d $curr_file) {
+         if (chdir $curr_file) {
+            recurse();
+            chdir "..";
+         } else {
+            print "WARNING: Could not chdir to ".$curr_file."\n";
+         }
+      } elsif ($curr_file =~ /\.md$/) {
+         fixMarkdown($curr_file);
+      }
+   }
 }
+recurse();
