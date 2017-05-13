@@ -1,11 +1,16 @@
 #!/usr/bin/perl
 use strict;
-use LWP::Simple;
+use LWP::UserAgent ();
 
-my $root_url = "http://tampahackerspace.com/wiki";
+my $root_url = "https://wiki.tampahackerspace.com";
 my @pages;
 my $page_cnt = 0;
 my $write_full = 0;
+
+my $ua = LWP::UserAgent->new;
+$ua->timeout(10);
+$ua->env_proxy;
+
 sub add_page
 {
    my ($new_page) = @_;
@@ -39,13 +44,22 @@ sub get_page
 {
    my ($page) = @_;
    $page =~ s/\ /_/g;
-   my $content = get($root_url."/index.php?title=".$page."&action=edit");
+   my $response = $ua->get($root_url."/index.php?title=".$page."&action=edit");
+   my $content;
+   if ($response->is_success) {
+      $content = $response->decoded_content;
+   } else {
+      print "Failed to get page ".$page." : ".$response->status_line."\n";
+      return;
+   }
    my @lines = split(/[\r\n]/, $content);
    my $text_area_start = -1;
    my $text_area_stop = -1;
    if ($page =~ s/\?//g) {
       print "Removed ? from ".$page."\n";
    }
+   # Trim leading :'s
+   $page =~ s/^:+//;
    if ($page =~ s/\:/\//g) {
       print "Converted : to / for ".$page."\n";
       my $subdir = $page;
@@ -101,7 +115,7 @@ sub get_page
 }
 
 my $idx = 0;
-add_page("Main_Page");
+add_page("Category:Main");
 while ($idx < $page_cnt) {
    get_page($pages[$idx++]);
 }
