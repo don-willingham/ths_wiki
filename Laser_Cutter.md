@@ -241,7 +241,7 @@ Other tips members have learned:
     -   Design is outside the 24" by 12" cut area.
     -   Design has transparency. This may manifest as vector lines rastering instead. Select the offending lines and set to “No Transparency” in the Object Properties.
 
-**Photo-quality raster images can be etched** on material at high DPI(dots-per-inch)/PPI(pulses-per-inch). For example at 500 PPI on Acrylic. --[Leebc](User:Leebc.md "wikilink") ([talk](User_talk:Leebc "wikilink")) 02:50, 21 February 2015 (CST)
+**Photo-quality raster images can be etched** on material at high DPI(dots-per-inch)/PPI(pulses-per-inch). For example at 500 PPI on Acrylic. --[Leebc](User/Leebc.md "wikilink") ([talk](User_talk/Leebc.md "wikilink")) 02:50, 21 February 2015 (CST)
 
 -   Open your image in [The GIMP](http://www.gimp.org/) or another program capable of editing photos. (CorelDraw doesn't support all the features we need.)
 
