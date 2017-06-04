@@ -80,6 +80,8 @@ sub get_page
          print FULL $curr_line."\n";
       }
       if ($curr_line =~ s/(<\/p>)?<textarea\ .*\ name=\"wpTextbox1\">//) {
+         while ($curr_line =~ s/<input type="hidden" value="[^\"]+" name="[^\"]+"\/>//) { }
+         $curr_line =~ s/<div id="toolbar"><\/div>//;
          $text_area_start = $line;
          $lines[$line] = $curr_line;
       }
