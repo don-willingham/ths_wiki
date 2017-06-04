@@ -98,7 +98,11 @@ sub get_page
          binmode(PARTIAL, ":utf8");
          my $idx;
          for ($idx = $text_area_start; $idx < $text_area_stop; $idx++) {
-            print PARTIAL $lines[$idx]."\n";
+            if ($lines[$idx] =~ /^\[\[Category:[^\]]+\]\]$/) {
+               # Don't print the categories to the file
+            } else {
+               print PARTIAL $lines[$idx]."\n";
+            }
             while ($lines[$idx] =~ s/\[\[([^\]]*)\]\]//) {
                my $link = $1;
                if ($link =~ /^([^\|]+)\|([^\|]+)$/) {
