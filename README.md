@@ -8,4 +8,5 @@ Usage:
 
 TODO:
   - Don't save "redirect" pages
+  - Remove leading '_' (underscore) in Category/tools subdirectories
   - Add something to generate offline .epub/.pdf

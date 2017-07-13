@@ -15,8 +15,11 @@ sub fixMarkdown
       while (<IN>) {
          my $curr_line = $_;
          chomp $curr_line;
-         if ($curr_line =~ /\(([^\ ]+)\ "wikilink"\)/) {
+         if ($curr_line =~ /\(([^\(]+)\ "wikilink"\)/) {
             my $link = $1;
+            if ($link =~ s/:/\//g) {
+print "Converted : to / for $link\n";
+            }
             print "Link ".$link;
             if ($link =~ /\.md$/) {
                if (-e $link) {

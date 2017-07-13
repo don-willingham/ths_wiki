@@ -1,38 +1,48 @@
-Are you just a social member or are you a dues paying member?
--------------------------------------------------------------
+Social member or full dues-paying member?
+-----------------------------------------
 
-Anyone is welcome to be a social member and participate in [Facebook](https://www.facebook.com/groups/TampaHack/), [Meetup](http://www.meetup.com/Tampa-Hackerspace) and other social media discussions. You're welcome to attend classes (members get a discount) and bring your projects to work on during OpenMake nights on most Tuesdays (the first Tuesday of the month is a closed member's meeting). Ask for a tour of the space if you haven't already been shown around.
+Anyone is welcome to participate in [Facebook](https://www.facebook.com/groups/TampaHack/), [Meetup](http://www.meetup.com/Tampa-Hackerspace) and other social media discussions. Many of our classes are open to the public, and you can bring your projects to work on during Open Make nights on Tuesdays (except the first Tuesday of the month, which is a closed members' meeting). Ask for a tour of the space if you haven't already been shown around.
 
-Certain classes and tools are open to members only.
-
-To become a full, paying, member:
-
--   Go to the [Tampa Hackerspace's](http://tampahackerspace.com/) main webpage and click on [Join](http://tampahackerspace.com/membership/). Members get 24/7 access to the Space, and can use our tools once they're trained (usually by taking the classes at a discounted rate). Non-members can still take classes in tool use and can purchase day-passes to use them.
+-   If you haven't already, join the social media groups below so you can participate in discussions and know what's going on at the Hackerspace, including classes and meet-ups. [Meetup](http://www.meetup.com/Tampa-Hackerspace/events/) is **THE** place where schedules are posted. Join [Slack](Using_Slack.md "wikilink") for various topical conversations with other members.
 
 <!-- -->
 
--   Regular membership is $50/month. Once you've paid your membership dues and completed the required paperwork (see the “Join” page linked above), you'll be a member.
+-   Social media and member communication:
+    -   [Facebook](https://www.facebook.com/groups/TampaHack/)
+    -   [Meetup](http://www.meetup.com/Tampa-Hackerspace)
+    -   [Slack](Using_Slack.md "wikilink")
+    -   [Twitter: @HackTampa](https://twitter.com/HackTampa)
+    -   [Instagram: tampahackerspace](https://www.instagram.com/tampahackerspace/)
+    -   [hackster.io: tampa-hackerspace](https://www.hackster.io/live/tampa-hackerspace/)
 
 <!-- -->
 
--   The first thing you should do is introduce yourself to the Board of Directors so they know who you are.
+-   Certain classes and tools are open to members only. Members get 24/7 access to the space, and can use any of our tools once they're trained (non-members can take some of the tool use classes but must purchase day passes to use them). Some classes have an associated fee, but are sometimes free when sponsored by [hackster.io](https://www.hackster.io/).
 
-<!-- -->
+To become a full member
+-----------------------
 
--   Then you need to take the New Member Orientation. This is held on an as-needed basis and covers topics like opening and closing the Space, enabling and disabling the alarm system, policies and procedures, some introductions, and getting a key-fob if your dues pay on a recurring basis (i.e, your credit card automatically gets charged).
-
-<!-- -->
-
--   If you haven't already, you should join the [Facebook](https://www.facebook.com/groups/TampaHack/) and [Meetup](http://www.meetup.com/Tampa-Hackerspace) groups so you can participate in discussions, and know what's going on at the Hackerspace, including classes and meet-ups. [Meetup](http://www.meetup.com/Tampa-Hackerspace/events/) is **THE** place where schedules are posted. Join [Slack](Using_Slack.md "wikilink") for communication with other members.
+-   Go to the main [Tampa Hackerspace](http://tampahackerspace.com/) webpage
+-   Select [Membership](http://tampahackerspace.com/membership/) from the top menu bar
+-   Follow the instructions on that page.
 
 Ok, cool, I'm a member.... Now what?
 ------------------------------------
 
--   **Start a discussion** on [Facebook](https://www.facebook.com/groups/TampaHack/): Ask a question or post a link about a topic that interests you.
+-   Introduce yourself to the Board of Directors.
 
 <!-- -->
 
--   **Come to an OpenMake night!** Most Tuesdays are OpenMake nights when everyone is invited. Members are encouraged to bring their projects to work on, or just to come and talk with other members about projects or topics of interest. The FIRST Tuesday of the month is a Member's Only meeting.
+-   **Start a discussion**: Ask a question or post a link about a topic that interests you.
+    -   [Facebook](https://www.facebook.com/groups/TampaHack/)
+    -   [Meetup](http://www.meetup.com/Tampa-Hackerspace)
+    -   [Slack](Using_Slack.md "wikilink")
+    -   [Twitter: @HackTampa](https://twitter.com/HackTampa)
+    -   [Instagram: tampahackerspace](https://www.instagram.com/tampahackerspace/)
+
+<!-- -->
+
+-   **Come to an Open Make night!** Most Tuesdays are Open Make nights when everyone is invited. Members are encouraged to bring their projects to work on, or just to come and talk with other members about projects or topics of interest. The FIRST Tuesday of the month is a Member's Only meeting.
 
 <!-- -->
 
@@ -66,6 +76,10 @@ Ok, cool, I'm a member.... Now what?
 
 -   **[ Volunteer to help out ](How_to_Help.md "wikilink").**
 
+<!-- -->
+
+-   **Post your build/project/code/etc** to [hackster.io](https://www.hackster.io/) or [instructables.com](http://www.instructables.com).
+
 I Don't Know What to Make...
 ----------------------------
 
@@ -81,8 +95,4 @@ I Don't Know What to Make...
 
 <!-- -->
 
--   Search [Thingiverse](http://www.thingiverse.com/) for something interesting.
-
-<!-- -->
-
--   Search [Pinterest](https://www.pinterest.com/) for ideas!
+-   Check out these [Project Idea Sites](Project_Idea_Sites.md "wikilink").

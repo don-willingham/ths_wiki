@@ -1,7 +1,5 @@
 **The Tampa Hackerspace has many wonderful tools that can be used to make make pieces for Steampunk cosplay or if that's your lifestyle. Here are some of the tools, and ideas of what they could be used to make.**
 
-*(This page is actually a place-holder for ideas for a promotional event.)*
-
 Sewing Studio
 -------------
 
@@ -177,7 +175,7 @@ Project Ideas:
 -   Giant spinning wheel for a time machine
 -   “Rocket pack” components
 
-[Metal Shop](Metal_Shop "wikilink")
+[Metal Shop](Metal_Shop.md "wikilink")
 -----------------------------------
 
 The Tampa Hackerspace metal shop is currently under construction (2015-08-12). Tools include metal lathes, a manual mill, and a CNC mill.

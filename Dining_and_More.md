@@ -20,6 +20,7 @@ Delivery
 General Daytime
 ---------------
 
+-   World of Beer (O'Brien St at Spruce St)
 -   International Mall food court and more
 -   Westshore Mall food court and more
 -   Kennedy strip - Taco Bell, McDonalds, Burger King, Jimmy Johns, Jimbo's BBQ, Five Guys, and more

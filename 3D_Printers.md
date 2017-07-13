@@ -10,9 +10,9 @@ Printers for Printing
 Printers for Printing or Hacking
 --------------------------------
 
-[Solidoodle 2](Solidoodle_2 "wikilink")
+[Solidoodle 2](Solidoodle_2.md "wikilink")
 
-[Solidoodle 3](Solidoodle_3 "wikilink")
+[Solidoodle 3](Solidoodle_3.md "wikilink")
 
 Notes
 -----

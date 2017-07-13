@@ -15,3 +15,7 @@ Links
 -----
 
 -   [DeltaMaker Support](https://deltamaker.freshdesk.com/support/home)
+
+<!-- -->
+
+-   <https://deltamaker.freshdesk.com/support/solutions/articles/6000037614-read-me-first>

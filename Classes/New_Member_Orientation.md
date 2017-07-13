@@ -6,4 +6,4 @@ Note that viewing the presentation online is NOT a substitute for attending the 
 
 -   [New Member Orientation Slide Deck](https://drive.google.com/open?id=0BynqFD678bx2SnBVR3FYZGx0c0E&authuser=0)
 
-[Back to Class List](classes.md "wikilink")
+[Back to Class List](../classes.md "wikilink")

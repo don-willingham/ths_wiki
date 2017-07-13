@@ -4,6 +4,13 @@ The Universal M360 is a flexible tool for precise cutting and etching of flat ma
 
 Use of the laser cutter requires the certification class.
 
+**If you are unsure about any aspect of laser cutter operation, cleaning, or maintenance, please ask for help in the [\#laser-engraver](https://tampahackerspace.slack.com/messages/C0GQ3BNTG) slack channel.**
+
+Where to buy acrylic:
+
+-   [Farco Plastics Supply](http://www.farcoplastics.com/) (in Clearwater) Recommended by a few of our members.
+-   [Plastics America](http://www.plasticsamerica.com/) (out towards Brandon.) “They price by the square foot and charge a single cut fee per order so you benefit from buying in quantity. Buying one or two pieces from them can get expensive. I think I recall the cut fee being $12ish.” -- Bill
+
 Tool Description
 ----------------
 
@@ -143,23 +150,25 @@ We have a good amount of donated matte board (scraps from framing art) that cuts
 Tool Use
 --------
 
+-   *'Check lens and “bucket” filter. Clean if necessary (see **Maintenance** section below for procedures)*'
 -   Create a new document in CorelDraw that is 24"Wx12"H
 -   Load SVG or create design. Use only the 8 supported colors.
 -   “Print” design
     -   Before clicking “OK” to print, go to “Preferences” and set appropriate values for each color.
     -   Review information from the class on how to do this.
     -   Review Laser Cutter documentation and log book for what settings to use.
+-   Turn on the exhaust fan.
 -   Power on Laser Cutter.
+-   If air assist nozzle is installed, turn on its air
 -   Put masking on your material to reduce scorching. (We have a large roll of self-adhesive masking in the Laser Cutter work area.)
 -   Place material on the cut bed.
 -   Set the Z-axis height and return the focus alignment tool to it's storage location.
--   Turn on the exhaust fan.
 -   Close all Laser Cutter doors.
 -   Press “Next ==&gt;” on the laser cutter control panel to use the most recently printed file.
 -   Double check your work.
 -   Press “Start”.
 -   **Never leave the Laser Cutter unattended!**
--   Write a short entry about your print job in the Log Book about who, when, what you cut, and what settings you used.
+-   *Write a short entry about your print job in the Log Book about who, when, what you cut, and what settings you used.*
 
 Tips and Tricks
 ---------------
@@ -241,7 +250,7 @@ Other tips members have learned:
     -   Design is outside the 24" by 12" cut area.
     -   Design has transparency. This may manifest as vector lines rastering instead. Select the offending lines and set to “No Transparency” in the Object Properties.
 
-**Photo-quality raster images can be etched** on material at high DPI(dots-per-inch)/PPI(pulses-per-inch). For example at 500 PPI on Acrylic. --[Leebc](User/Leebc.md "wikilink") ([talk](User_talk/Leebc.md "wikilink")) 02:50, 21 February 2015 (CST)
+**Photo-quality raster images can be etched** on material at high DPI(dots-per-inch)/PPI(pulses-per-inch). For example at 500 PPI on Acrylic. --[Leebc](User:Leebc "wikilink") ([talk](User_talk:Leebc "wikilink")) 02:50, 21 February 2015 (CST)
 
 -   Open your image in [The GIMP](http://www.gimp.org/) or another program capable of editing photos. (CorelDraw doesn't support all the features we need.)
 
@@ -258,9 +267,21 @@ In GIMP:
 Maintenance
 -----------
 
-Refer maintenance to qualified personnel. If no qualified personal are available and maintenance must be performed, read the maintenance section of the manual carefully. Be certain you understand the method for cleaning optics before attempting.
+**Refer maintenance to qualified personnel. If no qualified personal are on-site, post in [\#broken](https://tampahackerspace.slack.com/messages/C0H6JEBK6) and/or [\#laser-engraver](https://tampahackerspace.slack.com/messages/C0GQ3BNTG) slack channel.**
 
-**Maintenance Schedule and Summary** (From the manual)
+**Lens** See [Bryan Lee](https://tampahackerspace.slack.com/team/leebc) for training on lens cleaning procedure.
+
+**“Bucket” Filter Cleaning**
+
+Cleaning is simply a matter of stabilizing the buckets so they don't twist, unscrewing the top bucket's lid, removing the filter material, drying it, refolding it, reinserting it and screwing the top on.
+
+The purpose of the exhaust filter is to reduce material passing through the exhaust blower “in the attic”. The blowers were getting gunked up and needed to be exchanged every 6 months or so. We attempted to use a cyclonic system last year, but it did not allow enough airflow.
+
+The current setup draws air from the enclosure, through a 4 inch flexible metal duct and into the bottom bucket. When air enters the bottom bucket, the volume expands, slowing the airflow (but not the total volume, cubic feet/minute). The flow impacts a baffle and some particles should stop moving and ultimately fall. The airflow changes direction several times, which should stop more particulates. The air enters the upper bucket and passes through the filter material, catching even more particulates. There's a perforated metal panel the air goes through, then up the stack into the blower, then up another stack out the vent in the roof.
+
+Flow problems can happen if the hoses get kinked or excessively dirty inside.
+
+*Maintenance Schedule and Summary* (From the manual)
 
 Since the maintenance requirements of the laser system is dependent on the type of material being run, the quantity of material being removed, the hours of operation, and the quality of the exhaust blower, it must be user defined. As a starting point, we recommend the following schedule:
 
@@ -293,7 +314,11 @@ Since the maintenance requirements of the laser system is dependent on the type 
 Related Links
 -------------
 
--   [Universal Laser M360 Manual](https://drive.google.com/open?id=0B1BiUKpVQf5nOGF1ZzI4QWg4X1k) ( [Manual, not on Google docs](http://www.engravingsys.com/support/legacy/M360_V460_Owners_Manual_English.pdf))
+-   [Universal Laser M360 Manual](https://drive.google.com/open?id=0B1BiUKpVQf5nOGF1ZzI4QWg4X1k) ( [Same manual, not on Google docs](http://www.engravingsys.com/support/legacy/M360_V460_Owners_Manual_English.pdf))
+
+<!-- -->
+
+-   [Cleaning tips from Epilog Laser](https://drive.google.com/open?id=0B_7ZMAMaewbHeFNfNG9iRU5tVWM)
 
 <!-- -->
 
@@ -334,11 +359,3 @@ Related Links
 <!-- -->
 
 -   [Replacement Parts and Accessories](http://parts.engravingsys.com/MVX-Laser-Parts)
-
-<!-- -->
-
--   [Farco Plastics Supply](http://www.farcoplastics.com/) (in Clearwater) Recommended by Jay.
-
-<!-- -->
-
--   [Plastics America](http://www.plasticsamerica.com/) (out towards Brandon.) “They price by the square foot and charge a single cut fee per order so you benefit from buying in quantity. Buying one or two pieces from them can get expensive. I think I recall the cut fee being $12ish.” -- Bill
