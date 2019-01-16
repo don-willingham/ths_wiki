@@ -5,7 +5,7 @@ use LWP::UserAgent ();
 my $root_url = "https://wiki.tampahackerspace.com";
 my @pages;
 my $page_cnt = 0;
-my $write_full = 0;
+my $write_full = 1;
 
 my $ua = LWP::UserAgent->new;
 $ua->timeout(10);
@@ -60,8 +60,10 @@ sub get_page
    }
    # Trim leading :'s
    $page =~ s/^:+//;
-   if ($page =~ s/\:/\//g) {
-      print "Converted : to / for ".$page."\n";
+   # Convert :'s to /
+   my $page_orig = $page;
+   if ($page =~ s/(\:[\ \_]?)/\//g) {
+      print "Converted \"$1\" to / for ".$page_orig."(now ".$page.")\n";
       my $subdir = $page;
       $subdir =~ s/\/[^\/]+$//;
       mkdir $subdir;
@@ -73,6 +75,7 @@ sub get_page
          die("Failed to open ".$page.".full.txt for writing");
       }
    }
+   my $is_redirect = 0;
    my $line = 0;
    foreach (@lines) {
       my $curr_line = $_;
@@ -84,6 +87,10 @@ sub get_page
          $curr_line =~ s/<div id="toolbar"><\/div>//;
          $text_area_start = $line;
          $lines[$line] = $curr_line;
+         if ($curr_line =~ /^#REDIRECT/) {
+            print "Not saving redirect page ".$page_orig."\n";
+            $is_redirect = 1;
+         }
       }
       if ($curr_line =~ /<\/textarea>/) {
          $text_area_stop = $line;
@@ -93,7 +100,7 @@ sub get_page
    if ($write_full) {
       close FULL;
    }
-   if (($text_area_start > -1) && ($text_area_stop > -1)) {
+   if (!$is_redirect && ($text_area_start > -1) && ($text_area_stop > -1)) {
       if (open PARTIAL, ">".$page.".txt") {
          binmode(PARTIAL, ":utf8");
          my $idx;
