@@ -11,7 +11,7 @@ Gaming
 Computers
 ---------
 
--   DIY build your own PC
+-   [DIY build your own PC](Homebrew_Computing.md "wikilink")
 -   Learn to troubleshoot and repair PC's
 -   Learn new operating systems, (ever want to try out Linux?, The latest version of windows?)
 -   Control circuits and build appliances with Raspberry Pi and Arduino
@@ -50,3 +50,4 @@ See Also
 --------
 
 -   [Project Idea Sites](Project_Idea_Sites.md "wikilink")
+-   [Interest &amp; Project Groups](Interest_&amp;_Project_Groups.md "wikilink")
